@@ -49,5 +49,19 @@ CloudWatch via Lambda
 
 Python, Javascript
 
+# Code Generation
 
+## Existing Solution
 
+- General
+    - [Conjure](https://medium.com/palantir/introducing-conjure-palantirs-toolchain-for-http-json-apis-2175ec172d32)
+    - [Telosys](http://www.telosys.org/models.html)
+    - [Swagger Codegen](https://github.com/swagger-api/swagger-codegen)
+    - Protobuf and Thrift
+- Python
+    - [Jinja2](http://jinja.pocoo.org/) 
+- Javascript
+    - [Yeoman](https://yeoman.io/)
+- Videos
+    - [Source Code Generation](https://www.youtube.com/watch?v=jKWJKCuggmI)
+    - [Human-readable scheduling tool](https://www.youtube.com/watch?v=TCPhJpKv9SE)
